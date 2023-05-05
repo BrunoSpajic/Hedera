@@ -1,0 +1,25 @@
+{
+  "name": "hedera",
+  "version": "1.0.0",
+  "description": "Certification",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoSpajic/Hedera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoSpajic/Hedera/issues"
+  },
+  "homepage": "https://github.com/BrunoSpajic/Hedera#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.24.2",
+    "dotenv": "^16.0.3"
+  }
+}
